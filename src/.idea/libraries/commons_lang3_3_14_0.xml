@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="commons-lang3-3.14.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/commons-lang3-3.14.0-bin/commons-lang3-3.14.0/commons-lang3-3.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-j-8.0.33.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
